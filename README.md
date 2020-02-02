@@ -5,6 +5,6 @@ This is a data exploration of US gun data and custom visualizations based on an 
 Data explorations are done in Jupyter notebook and the datasets used are linked in the repository.
 
 
-Contributors: Jiaying He, Jiacheng Hu, Yuhe Ren, Jinjin Yu
+Contributors: Jiacheng Hu, Jiaying He, Yuhe Ren, Jinjin Yu
 
 [Link to the video](https://youtu.be/hCXK4XBJxBg)
